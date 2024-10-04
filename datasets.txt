@@ -1,0 +1,4 @@
+ETT: https://github.com/zhouhaoyi/ETDataset
+Electricity: https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
+Weather: https://www.bgc-jena.mpg.de/wetter/
+Traffic: http://pems.dot.ca.gov

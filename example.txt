@@ -1,0 +1,1 @@
+python -u run.py --is_training 1 --root_path ./dataset/ --data_path weather.csv --data custom --features M --channel 21 --itr 1 --batch_size 16 --learning_rate 0.005  --model Conv --rev --seq_len 512 --pred_len 96 --kernel_size 55 --gpu 0
