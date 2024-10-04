@@ -1,6 +1,6 @@
 # LTPSF-Conv
 
-This is a Pytorch implementation of LTPSF-Conv: "[Improving Long-Term Electricity Time Series Forecasting in Smart Grid with a Three-Stage Channel-Temporal Approach](https://www.sciencedirect.com/science/article/pii/S0959652624025009?casa_token=zpZYcjbgm-QAAAAA:u324SFp8PEpqKA1dX-t_N1GhZhcPuxWkPkrwYO0EJXlj-jiizY46cRCQsqPTZo-IFmXBPUgw9Voy)". 
+This is a Pytorch implementation of LTPSF-Conv: "[Can Complex Networks Outperform Simple Models in Long-Term Power Time Series Forecasting?]()". 
 
 
 ## Features
