@@ -1,6 +1,6 @@
 # LTPSF-Conv
 
-This is a Pytorch implementation of LTPSF-Conv: "[Can Complex Networks Outperform Simple Models in Long-Term Power Time Series Forecasting?]()". 
+This is a Pytorch implementation of LTPSF-Conv: "[Rethinking the Power of Minimalism in Long-Term Time Series Forecasting]()". 
 
 
 ## Features
@@ -61,3 +61,4 @@ If you find this repository useful for your work, please consider citing it as f
 ```
 
 Please remember to cite all the datasets and compared methods if you use them in your experiments.
+
