@@ -1,6 +1,6 @@
 # LTPSF-Conv
 
-This is a Pytorch implementation of LTPSF-Conv: "[Rethinking the Power of Minimalism in Long-Term Time Series Forecasting]()". 
+This is a Pytorch implementation of LTPSF-Conv: "[A lightweight depthwise convolution model for practical long-term power time series forecasting in smart grid applications]()". 
 
 
 ## Features
@@ -61,5 +61,6 @@ If you find this repository useful for your work, please consider citing it as f
 ```
 
 Please remember to cite all the datasets and compared methods if you use them in your experiments.
+
 
 
