@@ -131,3 +131,4 @@ class DataEmbedding_wo_temp(nn.Module):
         x = self.value_embedding(x) + self.position_embedding(x)
         
         return self.dropout(x)
+

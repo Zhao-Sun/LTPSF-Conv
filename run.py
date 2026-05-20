@@ -12,7 +12,6 @@ torch.manual_seed(fix_seed)
 np.random.seed(fix_seed)
 
 
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Multivariate Time Series Forecasting')
 

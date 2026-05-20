@@ -79,3 +79,4 @@ class Model(nn.Module):
         pred = self.rev(pred, 'denorm') if self.rev else pred
 
         return pred, self.forward_loss(pred, y)
+

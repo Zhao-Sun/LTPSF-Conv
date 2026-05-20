@@ -23,3 +23,4 @@ class ProbMask():
     @property
     def mask(self):
         return self._mask
+
