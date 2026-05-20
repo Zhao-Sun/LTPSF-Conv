@@ -34,3 +34,4 @@ python -u run.py \
     --learning_rate $learning_rate\
     --rev \
     --gpu 0 >logs/LongForecasting_electricity/$model_name'_'$model_id_name'_'$seq_len'_'$pred_len'_'$kernel_size'_'$batch_size'_'$learning_rate.log 
+
